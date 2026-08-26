@@ -2,17 +2,7 @@
 
 ### 🎓 CSE Student | 🤖 AI & Machine Learning Researcher | 📊 Aspiring Data Scientist
 
-<p align="center">
-  <a href="https://github.com/thalha01">
-    <img src="https://img.shields.io/badge/GitHub-thalha01-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-thalha-jobayer-2ba77641a">
-    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Thalha%20Jobayer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:thalhajobayer42@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+AI+%26+ML+Researcher;Aspiring+Data+Scientist;Machine+Learning+%26+NLP+Enthusiast;Research+%7C+Data+%7C+Artificial+Intelligence;Building+Intelligent+Solutions+for+Real-World+Problems" alt="Typing SVG" /> </p>
 
 ---
 
