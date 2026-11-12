@@ -200,7 +200,7 @@ Google Colab
 📍 Dhaka, Bangladesh
 
 **Expected Graduation:** December 2026
-**CGPA:** 3.19 / 4.00
+**CGPA:** 3.21 / 4.00
 
 ### Relevant Coursework
 
